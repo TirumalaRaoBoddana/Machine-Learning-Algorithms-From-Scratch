@@ -1,4 +1,3 @@
-#code for mini batch gradient descent algorithm
 import random
 import numpy as np
 import pandas as pd
